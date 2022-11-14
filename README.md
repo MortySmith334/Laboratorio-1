@@ -2,7 +2,7 @@
 1. OBEJTIVOS
 
   * Objetivo General:
-   `rgb(9, 105, 218)fdfdf`
+   `rgb(9, 105, 218)`hola
     
     - Identificar, medir y realizar conexiones en serie y paralelo de resistencia, mediante el uso de softwares de simulación como Tinkercad, para verificar experimentalmente las leyes de Kirchhoff comprobando los datos calculados con los medidos.
     
