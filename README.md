@@ -7,13 +7,20 @@
     
   * Objetivos Específicos:
 
-    •	 Aprender a manejar correctamente los multímetros y fuentes DC
+    - Aprender a manejar correctamente los multímetros y fuentes DC
 
-    - Desarrollar resúmenes a travez de mapas conceptuales para organizar y memorizar la teoría.
+    - Conocer y usar los dispositivos de medición (Multímetros) y fuentes de poder en DC 
     
-    - Realizar ejercicios correspondientes al tema de unidades y medidas de circuitos eléctricos.
+    - Fundamentar en la práctica, los conceptos de medición de voltajes en nodos y la caída de tensión en las resistencias. 
+
+    - Comparar y concluir sobre los resultados teóricos y simulados.
     
 2. MARCO TEÓRICO
+
+  LEY DE OHM
+  
+    -	Establece que la corriente que pasa por los conductores es proporcional al voltaje e inversamente proporcional a la resistencia aplicado en ellos.
+    ![image](https://user-images.githubusercontent.com/116812841/201790457-000900ff-7be9-44f1-8ad2-cdbb04870254.png)
 
    
 4. Video
