@@ -17,20 +17,20 @@
     
 2. MARCO TEÓRICO
 
-  *- LEY DE OHM
+  - LEY DE OHM
   
-   -	Establece que la corriente que pasa por los conductores es proporcional al voltaje e inversamente proporcional a la resistencia aplicado en ellos.
+    -	Establece que la corriente que pasa por los conductores es proporcional al voltaje e inversamente proporcional a la resistencia aplicado en ellos.
 
-   [![Imagen1.png](https://i.postimg.cc/v8VPdD4F/Imagen1.png)](https://postimg.cc/4nXv6fvB)
+        [![Imagen1.png](https://i.postimg.cc/v8VPdD4F/Imagen1.png)](https://postimg.cc/4nXv6fvB)
 
-   [![Imagen2.png](https://i.postimg.cc/qqsX6hKN/Imagen2.png)](https://postimg.cc/0KNJLNcv)
+        [![Imagen2.png](https://i.postimg.cc/qqsX6hKN/Imagen2.png)](https://postimg.cc/0KNJLNcv)
   
    
-*- LEYES DE KIRCHHOFF
-   -	Se llaman así en honor al físico alemán Gustav Robert Kirchhoff quien introdujo la ley de corriente y ley de tensión.
-   -	Las leyes de Kirchhoff complementan el análisis de circuitos como una herramienta eficaz para analizar y resolver una gran variedad de circuitos eléctricos.
+  - LEYES DE KIRCHHOFF
+     -	Se llaman así en honor al físico alemán Gustav Robert Kirchhoff quien introdujo la ley de corriente y ley de tensión.
+     -	Las leyes de Kirchhoff complementan el análisis de circuitos como una herramienta eficaz para analizar y resolver una gran variedad de circuitos eléctricos.
 Primera ley: Ley de corriente de Kirchhoff
-   -	Estableciendo en la ley de corriente que, la suma algebraica de las corrientes que entran a un nodo es cero.
+     -	Estableciendo en la ley de corriente que, la suma algebraica de las corrientes que entran a un nodo es cero.
 
    
 4. Video
