@@ -20,6 +20,7 @@
   LEY DE OHM
   
     -	Establece que la corriente que pasa por los conductores es proporcional al voltaje e inversamente proporcional a la resistencia aplicado en ellos.
+    
     ![image](https://user-images.githubusercontent.com/116812841/201790457-000900ff-7be9-44f1-8ad2-cdbb04870254.png)
 
    
