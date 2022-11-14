@@ -29,8 +29,14 @@
   - LEYES DE KIRCHHOFF
      -	Se llaman así en honor al físico alemán Gustav Robert Kirchhoff quien introdujo la ley de corriente y ley de tensión.
      -	Las leyes de Kirchhoff complementan el análisis de circuitos como una herramienta eficaz para analizar y resolver una gran variedad de circuitos eléctricos.
-Primera ley: Ley de corriente de Kirchhoff
+-- Primera ley: Ley de corriente de Kirchhoff
      -	Estableciendo en la ley de corriente que, la suma algebraica de las corrientes que entran a un nodo es cero.
+     
+   [![Imagen3.png](https://i.postimg.cc/9Fxw8YcW/Imagen3.png)](https://postimg.cc/crnJ6YKj)
+   
+ --Segunda ley: Ley de voltaje de Kirchhoff
+-	Describe cómo se comporta el voltaje en un lazo cerrado o malla, por lo tanto, con esta ley es posible determinar las caídas de voltaje de cada elemento que compone a la malla que se esté analizando.
+
 
    
 4. Video
