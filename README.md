@@ -87,17 +87,31 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
    
    [![20.png](https://i.postimg.cc/fTmsrwcB/20.png)](https://postimg.cc/fJz13Qg9)
    
+   iii.	Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+   
+   [![21.png](https://i.postimg.cc/FRwtTq1M/21.png)](https://postimg.cc/47vFdW6P)
+   
+   
+   iv.	Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+   
+   [![22.png](https://i.postimg.cc/h47RXS5c/22.png)](https://postimg.cc/Rq9D8zmD)
    
 
-5. Conclusiones
-
- - Se concluye que existe varias magnitudes físicas que se utilizan en la electricidad, se las debe conocer bien al igual que sus escalas.
-
- - Al igual que debemos conocer las magnitudes físicas eléctricas, debemos conocer la forma de medirlas analógica o digitalmente, con el uso de un multimetro se debe medir cada magnitud de una manera determinada, ya sea en serie o paralelo.
- 
- - Mediante la lectura y la practica del libro circuitos eléctricos de Floyd, se logró conocer de manera satisfactoria las conversiones en notación científica, puesto a que varios datos pueden tener cifras exageradamente largas, se las puede expresar de manera resumida con notación científica.
 
 
-6. Bibliografía
- 
- Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
+4.	RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+
+
+5.	VIDEO
+
+6.	CONCLUSIONES
+   -	El laboratorio realizado por las leyes de Kirchoff nos hace entender que gracias a ellas podeos resolver sin mayor complicación circuitos eléctricos complejos.
+   - La primera ley de Kirchhof es válida: en un nodo, la suma de corrientes entrantes es igual a la suma de corrientes salientes. Con los valores experimentales, estas sumas son casi iguales.
+   -	La segunda ley de Kirchhof también es cierta: en una malla, la suma algebraica de voltajes es igual a cero. Con los valores hallados experimentalmente, la suma es prácticamente cero.
+   
+ 7.	BIBLIOGRAFÍA
+   -	MecatrónicaLATAM. (2021). Leyes de Kirchhoff. Recuperado de: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/ 
+   -	Geek Electrónica. (2018). Leyes de Kirchhoff. Recuperado de: https://geekelectronica.com/leyes-de-kirchhoff/ 
+   -	Gouveia. R. (2018). Ley de Ohm. Recuperado de: https://www.todamateria.com/ley-de-ohm/ 
+   -	Paco Santana Cáceres. (2014, March 12). Leyes de Kirchhoff. Blog de Tecnología - IES José Arencibia Gil - Telde. https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/03/12/leyes-de-kirchhoff/#:~:text=Ley%20de%20tensiones%20de%20Kirchhoff&text=La%20ley%20de%20las%20mallas,lazo%20es%20igual%20a%20cero.
+
