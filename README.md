@@ -33,15 +33,38 @@
    **Primera ley: Ley de corriente de Kirchhoff**
      -	Estableciendo en la ley de corriente que, la suma algebraica de las corrientes que entran a un nodo es cero.
      
-    [![Imagen3.png](https://i.postimg.cc/9Fxw8YcW/Imagen3.png)](https://postimg.cc/crnJ6YKj)
+   [![Imagen3.png](https://i.postimg.cc/9Fxw8YcW/Imagen3.png)](https://postimg.cc/crnJ6YKj)
    
-  **Segunda ley: Ley de voltaje de Kirchhoff**
+   **Segunda ley: Ley de voltaje de Kirchhoff**
        
-    -	Describe cómo se comporta el voltaje en un lazo cerrado o malla, por lo tanto, con esta ley es posible determinar las caídas de voltaje de cada elemento que compone a la malla que se esté analizando.
+   -	Describe cómo se comporta el voltaje en un lazo cerrado o malla, por lo tanto, con esta ley es posible determinar las caídas de voltaje de cada elemento que compone a la malla que se esté analizando.
 
-
+   [![Imagen4.png](https://i.postimg.cc/3xVsZV62/Imagen4.png)](https://postimg.cc/Bj57SYJv)
    
-4. Video
+   
+   
+3.	EXPLICACIÓN DEL PROCEDIMIENTO
+
+   3.1.  MATERIAL Y EQUIPO REQUERIDO
+
+[![Imagen5.png](https://i.postimg.cc/B6swY0CP/Imagen5.png)](https://postimg.cc/mcXwkKJT)
+
+  
+   3.2. PROCEDIMIENTO
+   
+   i.	Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
+   
+   [![Imagen6.png](https://i.postimg.cc/qqNcQbWC/Imagen6.png)](https://postimg.cc/xNSb1Rf0)
+   
+   ii.	Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+   [![Imagen7.png](https://i.postimg.cc/KcWD4bg7/Imagen7.png)](https://postimg.cc/z3ngP973)
+   
+   [![image-1.png](https://i.postimg.cc/LXwvdFtV/image-1.png)](https://postimg.cc/5Y58vGkH)
+   
+   
+
 
 https://youtu.be/xWgsjagHwsw
 
