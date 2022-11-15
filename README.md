@@ -1,7 +1,10 @@
 # Laboratorio-1
 -Aguirre Johan
+
 -Calahorrano Sarahi
+
 -Lara Melany
+
 1. OBEJTIVOS
 
   * Objetivo General:
