@@ -63,6 +63,12 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
    
    [![image-1.png](https://i.postimg.cc/LXwvdFtV/image-1.png)](https://postimg.cc/5Y58vGkH)
    
+   [![image-2.png](https://i.postimg.cc/pLCZWFQr/image-2.png)](https://postimg.cc/87FWws0g)
+   
+   [![image-3.png](https://i.postimg.cc/Ls03fFbM/image-3.png)](https://postimg.cc/7C0z8d4B)
+   
+   [![image-4.png](https://i.postimg.cc/tTZtNvKn/image-4.png)](https://postimg.cc/DJhX26y7)
+   
    
 
 
