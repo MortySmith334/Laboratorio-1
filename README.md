@@ -104,6 +104,8 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 5.	VIDEO
 
+https://youtu.be/oho3zDbcY4I
+
 6.	CONCLUSIONES
     -	El laboratorio realizado por las leyes de Kirchoff nos hace entender que gracias a ellas podeos resolver sin mayor complicación circuitos eléctricos complejos.
     - La primera ley de Kirchhof es válida: en un nodo, la suma de corrientes entrantes es igual a la suma de corrientes salientes. Con los valores experimentales, estas sumas son casi iguales.
