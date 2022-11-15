@@ -67,12 +67,27 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
    
    [![image-3.png](https://i.postimg.cc/Ls03fFbM/image-3.png)](https://postimg.cc/7C0z8d4B)
    
-   [![image-4.png](https://i.postimg.cc/tTZtNvKn/image-4.png)](https://postimg.cc/DJhX26y7)
+   [![11.png](https://i.postimg.cc/pXwNf33z/11.png)](https://postimg.cc/xc3FYpf1)
+   
+   [![12.png](https://i.postimg.cc/sg7kwwR8/12.png)](https://postimg.cc/HrWvL0n4)
+   
+   [![13.png](https://i.postimg.cc/vmvpdTTt/13.png)](https://postimg.cc/zLVdCJny)
+   
+   [![14.png](https://i.postimg.cc/76sdfRgC/14.png)](https://postimg.cc/FdSD6DCm)
+   
+   [![15.png](https://i.postimg.cc/Y2PT7JrZ/15.png)](https://postimg.cc/XXwsc1yk)
+   
+   [![16.png](https://i.postimg.cc/cH4P1W8y/16.png)](https://postimg.cc/94KL1vpJ)
+   
+   [![17.png](https://i.postimg.cc/wMnrks4g/17.png)](https://postimg.cc/m1NVLhG5)
+   
+   [![18.png](https://i.postimg.cc/gjx5RKDg/18.png)](https://postimg.cc/1VZJ1wbF)
+   
+   [![19.png](https://i.postimg.cc/dtTpV4D1/19.png)](https://postimg.cc/ZC4VfP8t)
+   
+   [![20.png](https://i.postimg.cc/8zQ3JMrb/20.png)](https://postimg.cc/SJdVHXdX)
    
    
-
-
-https://youtu.be/xWgsjagHwsw
 
 5. Conclusiones
 
