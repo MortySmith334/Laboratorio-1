@@ -99,7 +99,13 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 
 
-4.	RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+4.	CÁLCULO DEL ERROR
+
+[![56.png](https://i.postimg.cc/tCMnrcJk/56.png)](https://postimg.cc/crfJCXQt)
+
+[![57.png](https://i.postimg.cc/nL8jxQvQ/57.png)](https://postimg.cc/RWRVQhpM)
+
+[![58.png](https://i.postimg.cc/254qS8w9/58.png)](https://postimg.cc/1g3RWSbD)
 
 
 5.	VIDEO
